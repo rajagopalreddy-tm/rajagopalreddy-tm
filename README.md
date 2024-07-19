@@ -28,6 +28,3 @@ I'm a passionate software developer with a keen interest in web development and 
 - JSON Server
 
 **Thank you for visiting my profile! 😊**
- ```bash
- Not a leap year
- ```
